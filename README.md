@@ -1,7 +1,7 @@
 # Trigonometric-Euclidean-Smoother-Interpolator-TESI-
 # Paper Title: Trigonometric-Euclidean-Smoother Interpolator (TESI) for continuous time-series and non-time-series data augmentation for deep neural network applications in agriculture
 # Paper DOI: https://doi.org/10.1016/j.compag.2023.107646
-
+# Package link: https://pypi.org/project/Syndenv/0.0.1/
 # How to use TESI 
 # Install the Package
 pip install Syndenv
